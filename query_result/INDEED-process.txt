@@ -1,0 +1,707 @@
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc
+CURRENT PAGE:0
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=10Pagination:
+	page location: 10 page_link: /jobs?q=cook&start=10
+	page location: 20 page_link: /jobs?q=cook&start=20
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 10 page_link: /jobs?q=cook&start=10
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=10
+CURRENT PAGE:10
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=20Pagination:
+	page location: 0 page_link: /jobs?q=cook
+	page location: 0 page_link: /jobs?q=cook
+	page location: 20 page_link: /jobs?q=cook&start=20
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 20 page_link: /jobs?q=cook&start=20
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=20
+CURRENT PAGE:20
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=30Pagination:
+	page location: 10 page_link: /jobs?q=cook&start=10
+	page location: 0 page_link: /jobs?q=cook
+	page location: 10 page_link: /jobs?q=cook&start=10
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 30 page_link: /jobs?q=cook&start=30
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=30
+CURRENT PAGE:30
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=40Pagination:
+	page location: 20 page_link: /jobs?q=cook&start=20
+	page location: 10 page_link: /jobs?q=cook&start=10
+	page location: 20 page_link: /jobs?q=cook&start=20
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 50 page_link: /jobs?q=cook&start=50
+	page location: 40 page_link: /jobs?q=cook&start=40
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=40
+CURRENT PAGE:40
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=50Pagination:
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 20 page_link: /jobs?q=cook&start=20
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 50 page_link: /jobs?q=cook&start=50
+	page location: 60 page_link: /jobs?q=cook&start=60
+	page location: 50 page_link: /jobs?q=cook&start=50
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=50
+CURRENT PAGE:50
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=60Pagination:
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 30 page_link: /jobs?q=cook&start=30
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 60 page_link: /jobs?q=cook&start=60
+	page location: 70 page_link: /jobs?q=cook&start=70
+	page location: 60 page_link: /jobs?q=cook&start=60
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=60
+CURRENT PAGE:60
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=70Pagination:
+	page location: 50 page_link: /jobs?q=cook&start=50
+	page location: 40 page_link: /jobs?q=cook&start=40
+	page location: 50 page_link: /jobs?q=cook&start=50
+	page location: 70 page_link: /jobs?q=cook&start=70
+	page location: 80 page_link: /jobs?q=cook&start=80
+	page location: 70 page_link: /jobs?q=cook&start=70
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=70
+CURRENT PAGE:70
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=80Pagination:
+	page location: 60 page_link: /jobs?q=cook&start=60
+	page location: 50 page_link: /jobs?q=cook&start=50
+	page location: 60 page_link: /jobs?q=cook&start=60
+	page location: 80 page_link: /jobs?q=cook&start=80
+	page location: 90 page_link: /jobs?q=cook&start=90
+	page location: 80 page_link: /jobs?q=cook&start=80
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=80
+CURRENT PAGE:80
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=90Pagination:
+	page location: 70 page_link: /jobs?q=cook&start=70
+	page location: 60 page_link: /jobs?q=cook&start=60
+	page location: 70 page_link: /jobs?q=cook&start=70
+	page location: 90 page_link: /jobs?q=cook&start=90
+	page location: 100 page_link: /jobs?q=cook&start=100
+	page location: 90 page_link: /jobs?q=cook&start=90
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=90
+CURRENT PAGE:90
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=100Pagination:
+	page location: 80 page_link: /jobs?q=cook&start=80
+	page location: 70 page_link: /jobs?q=cook&start=70
+	page location: 80 page_link: /jobs?q=cook&start=80
+	page location: 100 page_link: /jobs?q=cook&start=100
+	page location: 110 page_link: /jobs?q=cook&start=110
+	page location: 100 page_link: /jobs?q=cook&start=100
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=100
+CURRENT PAGE:100
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=110Pagination:
+	page location: 90 page_link: /jobs?q=cook&start=90
+	page location: 80 page_link: /jobs?q=cook&start=80
+	page location: 90 page_link: /jobs?q=cook&start=90
+	page location: 110 page_link: /jobs?q=cook&start=110
+	page location: 120 page_link: /jobs?q=cook&start=120
+	page location: 110 page_link: /jobs?q=cook&start=110
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=110
+CURRENT PAGE:110
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=120Pagination:
+	page location: 100 page_link: /jobs?q=cook&start=100
+	page location: 90 page_link: /jobs?q=cook&start=90
+	page location: 100 page_link: /jobs?q=cook&start=100
+	page location: 120 page_link: /jobs?q=cook&start=120
+	page location: 130 page_link: /jobs?q=cook&start=130
+	page location: 120 page_link: /jobs?q=cook&start=120
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=120
+CURRENT PAGE:120
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=130Pagination:
+	page location: 110 page_link: /jobs?q=cook&start=110
+	page location: 100 page_link: /jobs?q=cook&start=100
+	page location: 110 page_link: /jobs?q=cook&start=110
+	page location: 130 page_link: /jobs?q=cook&start=130
+	page location: 140 page_link: /jobs?q=cook&start=140
+	page location: 130 page_link: /jobs?q=cook&start=130
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=130
+CURRENT PAGE:130
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=140Pagination:
+	page location: 120 page_link: /jobs?q=cook&start=120
+	page location: 110 page_link: /jobs?q=cook&start=110
+	page location: 120 page_link: /jobs?q=cook&start=120
+	page location: 140 page_link: /jobs?q=cook&start=140
+	page location: 150 page_link: /jobs?q=cook&start=150
+	page location: 140 page_link: /jobs?q=cook&start=140
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=140
+CURRENT PAGE:140
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=150Pagination:
+	page location: 130 page_link: /jobs?q=cook&start=130
+	page location: 120 page_link: /jobs?q=cook&start=120
+	page location: 130 page_link: /jobs?q=cook&start=130
+	page location: 150 page_link: /jobs?q=cook&start=150
+	page location: 160 page_link: /jobs?q=cook&start=160
+	page location: 150 page_link: /jobs?q=cook&start=150
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=150
+CURRENT PAGE:150
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=160Pagination:
+	page location: 140 page_link: /jobs?q=cook&start=140
+	page location: 130 page_link: /jobs?q=cook&start=130
+	page location: 140 page_link: /jobs?q=cook&start=140
+	page location: 160 page_link: /jobs?q=cook&start=160
+	page location: 170 page_link: /jobs?q=cook&start=170
+	page location: 160 page_link: /jobs?q=cook&start=160
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=160
+CURRENT PAGE:160
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=170Pagination:
+	page location: 150 page_link: /jobs?q=cook&start=150
+	page location: 140 page_link: /jobs?q=cook&start=140
+	page location: 150 page_link: /jobs?q=cook&start=150
+	page location: 170 page_link: /jobs?q=cook&start=170
+	page location: 180 page_link: /jobs?q=cook&start=180
+	page location: 170 page_link: /jobs?q=cook&start=170
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=170
+CURRENT PAGE:170
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=180Pagination:
+	page location: 160 page_link: /jobs?q=cook&start=160
+	page location: 150 page_link: /jobs?q=cook&start=150
+	page location: 160 page_link: /jobs?q=cook&start=160
+	page location: 180 page_link: /jobs?q=cook&start=180
+	page location: 190 page_link: /jobs?q=cook&start=190
+	page location: 180 page_link: /jobs?q=cook&start=180
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=180
+CURRENT PAGE:180
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=190Pagination:
+	page location: 170 page_link: /jobs?q=cook&start=170
+	page location: 160 page_link: /jobs?q=cook&start=160
+	page location: 170 page_link: /jobs?q=cook&start=170
+	page location: 190 page_link: /jobs?q=cook&start=190
+	page location: 200 page_link: /jobs?q=cook&start=200
+	page location: 190 page_link: /jobs?q=cook&start=190
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=190
+CURRENT PAGE:190
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=200Pagination:
+	page location: 180 page_link: /jobs?q=cook&start=180
+	page location: 170 page_link: /jobs?q=cook&start=170
+	page location: 180 page_link: /jobs?q=cook&start=180
+	page location: 200 page_link: /jobs?q=cook&start=200
+	page location: 210 page_link: /jobs?q=cook&start=210
+	page location: 200 page_link: /jobs?q=cook&start=200
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=200
+CURRENT PAGE:200
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=210Pagination:
+	page location: 190 page_link: /jobs?q=cook&start=190
+	page location: 180 page_link: /jobs?q=cook&start=180
+	page location: 190 page_link: /jobs?q=cook&start=190
+	page location: 210 page_link: /jobs?q=cook&start=210
+	page location: 220 page_link: /jobs?q=cook&start=220
+	page location: 210 page_link: /jobs?q=cook&start=210
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=210
+CURRENT PAGE:210
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=220Pagination:
+	page location: 200 page_link: /jobs?q=cook&start=200
+	page location: 190 page_link: /jobs?q=cook&start=190
+	page location: 200 page_link: /jobs?q=cook&start=200
+	page location: 220 page_link: /jobs?q=cook&start=220
+	page location: 230 page_link: /jobs?q=cook&start=230
+	page location: 220 page_link: /jobs?q=cook&start=220
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=220
+CURRENT PAGE:220
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=230Pagination:
+	page location: 210 page_link: /jobs?q=cook&start=210
+	page location: 200 page_link: /jobs?q=cook&start=200
+	page location: 210 page_link: /jobs?q=cook&start=210
+	page location: 230 page_link: /jobs?q=cook&start=230
+	page location: 240 page_link: /jobs?q=cook&start=240
+	page location: 230 page_link: /jobs?q=cook&start=230
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=230
+CURRENT PAGE:230
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=240Pagination:
+	page location: 220 page_link: /jobs?q=cook&start=220
+	page location: 210 page_link: /jobs?q=cook&start=210
+	page location: 220 page_link: /jobs?q=cook&start=220
+	page location: 240 page_link: /jobs?q=cook&start=240
+	page location: 250 page_link: /jobs?q=cook&start=250
+	page location: 240 page_link: /jobs?q=cook&start=240
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=240
+CURRENT PAGE:240
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=250Pagination:
+	page location: 230 page_link: /jobs?q=cook&start=230
+	page location: 220 page_link: /jobs?q=cook&start=220
+	page location: 230 page_link: /jobs?q=cook&start=230
+	page location: 250 page_link: /jobs?q=cook&start=250
+	page location: 260 page_link: /jobs?q=cook&start=260
+	page location: 250 page_link: /jobs?q=cook&start=250
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=250
+CURRENT PAGE:250
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=260Pagination:
+	page location: 240 page_link: /jobs?q=cook&start=240
+	page location: 230 page_link: /jobs?q=cook&start=230
+	page location: 240 page_link: /jobs?q=cook&start=240
+	page location: 260 page_link: /jobs?q=cook&start=260
+	page location: 270 page_link: /jobs?q=cook&start=270
+	page location: 260 page_link: /jobs?q=cook&start=260
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=260
+CURRENT PAGE:260
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=270Pagination:
+	page location: 250 page_link: /jobs?q=cook&start=250
+	page location: 240 page_link: /jobs?q=cook&start=240
+	page location: 250 page_link: /jobs?q=cook&start=250
+	page location: 270 page_link: /jobs?q=cook&start=270
+	page location: 280 page_link: /jobs?q=cook&start=280
+	page location: 270 page_link: /jobs?q=cook&start=270
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=270
+CURRENT PAGE:270
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=280Pagination:
+	page location: 260 page_link: /jobs?q=cook&start=260
+	page location: 250 page_link: /jobs?q=cook&start=250
+	page location: 260 page_link: /jobs?q=cook&start=260
+	page location: 280 page_link: /jobs?q=cook&start=280
+	page location: 290 page_link: /jobs?q=cook&start=290
+	page location: 280 page_link: /jobs?q=cook&start=280
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=280
+CURRENT PAGE:280
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=290Pagination:
+	page location: 270 page_link: /jobs?q=cook&start=270
+	page location: 260 page_link: /jobs?q=cook&start=260
+	page location: 270 page_link: /jobs?q=cook&start=270
+	page location: 290 page_link: /jobs?q=cook&start=290
+	page location: 300 page_link: /jobs?q=cook&start=300
+	page location: 290 page_link: /jobs?q=cook&start=290
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=290
+CURRENT PAGE:290
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=300Pagination:
+	page location: 280 page_link: /jobs?q=cook&start=280
+	page location: 270 page_link: /jobs?q=cook&start=270
+	page location: 280 page_link: /jobs?q=cook&start=280
+	page location: 300 page_link: /jobs?q=cook&start=300
+	page location: 310 page_link: /jobs?q=cook&start=310
+	page location: 300 page_link: /jobs?q=cook&start=300
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=300
+CURRENT PAGE:300
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=310Pagination:
+	page location: 290 page_link: /jobs?q=cook&start=290
+	page location: 280 page_link: /jobs?q=cook&start=280
+	page location: 290 page_link: /jobs?q=cook&start=290
+	page location: 310 page_link: /jobs?q=cook&start=310
+	page location: 320 page_link: /jobs?q=cook&start=320
+	page location: 310 page_link: /jobs?q=cook&start=310
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=310
+CURRENT PAGE:310
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=320Pagination:
+	page location: 300 page_link: /jobs?q=cook&start=300
+	page location: 290 page_link: /jobs?q=cook&start=290
+	page location: 300 page_link: /jobs?q=cook&start=300
+	page location: 320 page_link: /jobs?q=cook&start=320
+	page location: 330 page_link: /jobs?q=cook&start=330
+	page location: 320 page_link: /jobs?q=cook&start=320
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=320
+CURRENT PAGE:320
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=330Pagination:
+	page location: 310 page_link: /jobs?q=cook&start=310
+	page location: 300 page_link: /jobs?q=cook&start=300
+	page location: 310 page_link: /jobs?q=cook&start=310
+	page location: 330 page_link: /jobs?q=cook&start=330
+	page location: 340 page_link: /jobs?q=cook&start=340
+	page location: 330 page_link: /jobs?q=cook&start=330
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=330
+CURRENT PAGE:330
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=340Pagination:
+	page location: 320 page_link: /jobs?q=cook&start=320
+	page location: 310 page_link: /jobs?q=cook&start=310
+	page location: 320 page_link: /jobs?q=cook&start=320
+	page location: 340 page_link: /jobs?q=cook&start=340
+	page location: 350 page_link: /jobs?q=cook&start=350
+	page location: 340 page_link: /jobs?q=cook&start=340
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=340
+CURRENT PAGE:340
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=350Pagination:
+	page location: 330 page_link: /jobs?q=cook&start=330
+	page location: 320 page_link: /jobs?q=cook&start=320
+	page location: 330 page_link: /jobs?q=cook&start=330
+	page location: 350 page_link: /jobs?q=cook&start=350
+	page location: 360 page_link: /jobs?q=cook&start=360
+	page location: 350 page_link: /jobs?q=cook&start=350
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=350
+CURRENT PAGE:350
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=360Pagination:
+	page location: 340 page_link: /jobs?q=cook&start=340
+	page location: 330 page_link: /jobs?q=cook&start=330
+	page location: 340 page_link: /jobs?q=cook&start=340
+	page location: 360 page_link: /jobs?q=cook&start=360
+	page location: 370 page_link: /jobs?q=cook&start=370
+	page location: 360 page_link: /jobs?q=cook&start=360
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=360
+CURRENT PAGE:360
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=370Pagination:
+	page location: 350 page_link: /jobs?q=cook&start=350
+	page location: 340 page_link: /jobs?q=cook&start=340
+	page location: 350 page_link: /jobs?q=cook&start=350
+	page location: 370 page_link: /jobs?q=cook&start=370
+	page location: 380 page_link: /jobs?q=cook&start=380
+	page location: 370 page_link: /jobs?q=cook&start=370
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=370
+CURRENT PAGE:370
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=380Pagination:
+	page location: 360 page_link: /jobs?q=cook&start=360
+	page location: 350 page_link: /jobs?q=cook&start=350
+	page location: 360 page_link: /jobs?q=cook&start=360
+	page location: 380 page_link: /jobs?q=cook&start=380
+	page location: 390 page_link: /jobs?q=cook&start=390
+	page location: 380 page_link: /jobs?q=cook&start=380
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=380
+CURRENT PAGE:380
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=390Pagination:
+	page location: 370 page_link: /jobs?q=cook&start=370
+	page location: 360 page_link: /jobs?q=cook&start=360
+	page location: 370 page_link: /jobs?q=cook&start=370
+	page location: 390 page_link: /jobs?q=cook&start=390
+	page location: 400 page_link: /jobs?q=cook&start=400
+	page location: 390 page_link: /jobs?q=cook&start=390
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=390
+CURRENT PAGE:390
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=400Pagination:
+	page location: 380 page_link: /jobs?q=cook&start=380
+	page location: 370 page_link: /jobs?q=cook&start=370
+	page location: 380 page_link: /jobs?q=cook&start=380
+	page location: 400 page_link: /jobs?q=cook&start=400
+	page location: 410 page_link: /jobs?q=cook&start=410
+	page location: 400 page_link: /jobs?q=cook&start=400
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=400
+CURRENT PAGE:400
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=410Pagination:
+	page location: 390 page_link: /jobs?q=cook&start=390
+	page location: 380 page_link: /jobs?q=cook&start=380
+	page location: 390 page_link: /jobs?q=cook&start=390
+	page location: 410 page_link: /jobs?q=cook&start=410
+	page location: 420 page_link: /jobs?q=cook&start=420
+	page location: 410 page_link: /jobs?q=cook&start=410
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=410
+CURRENT PAGE:410
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=420Pagination:
+	page location: 400 page_link: /jobs?q=cook&start=400
+	page location: 390 page_link: /jobs?q=cook&start=390
+	page location: 400 page_link: /jobs?q=cook&start=400
+	page location: 420 page_link: /jobs?q=cook&start=420
+	page location: 430 page_link: /jobs?q=cook&start=430
+	page location: 420 page_link: /jobs?q=cook&start=420
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=420
+CURRENT PAGE:420
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=430Pagination:
+	page location: 410 page_link: /jobs?q=cook&start=410
+	page location: 400 page_link: /jobs?q=cook&start=400
+	page location: 410 page_link: /jobs?q=cook&start=410
+	page location: 430 page_link: /jobs?q=cook&start=430
+	page location: 440 page_link: /jobs?q=cook&start=440
+	page location: 430 page_link: /jobs?q=cook&start=430
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=430
+CURRENT PAGE:430
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=440Pagination:
+	page location: 420 page_link: /jobs?q=cook&start=420
+	page location: 410 page_link: /jobs?q=cook&start=410
+	page location: 420 page_link: /jobs?q=cook&start=420
+	page location: 440 page_link: /jobs?q=cook&start=440
+	page location: 450 page_link: /jobs?q=cook&start=450
+	page location: 440 page_link: /jobs?q=cook&start=440
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=440
+CURRENT PAGE:440
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=450Pagination:
+	page location: 430 page_link: /jobs?q=cook&start=430
+	page location: 420 page_link: /jobs?q=cook&start=420
+	page location: 430 page_link: /jobs?q=cook&start=430
+	page location: 450 page_link: /jobs?q=cook&start=450
+	page location: 460 page_link: /jobs?q=cook&start=460
+	page location: 450 page_link: /jobs?q=cook&start=450
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=450
+CURRENT PAGE:450
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=460Pagination:
+	page location: 440 page_link: /jobs?q=cook&start=440
+	page location: 430 page_link: /jobs?q=cook&start=430
+	page location: 440 page_link: /jobs?q=cook&start=440
+	page location: 460 page_link: /jobs?q=cook&start=460
+	page location: 470 page_link: /jobs?q=cook&start=470
+	page location: 460 page_link: /jobs?q=cook&start=460
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=460
+CURRENT PAGE:460
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=470Pagination:
+	page location: 450 page_link: /jobs?q=cook&start=450
+	page location: 440 page_link: /jobs?q=cook&start=440
+	page location: 450 page_link: /jobs?q=cook&start=450
+	page location: 470 page_link: /jobs?q=cook&start=470
+	page location: 480 page_link: /jobs?q=cook&start=480
+	page location: 470 page_link: /jobs?q=cook&start=470
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=470
+CURRENT PAGE:470
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=480Pagination:
+	page location: 460 page_link: /jobs?q=cook&start=460
+	page location: 450 page_link: /jobs?q=cook&start=450
+	page location: 460 page_link: /jobs?q=cook&start=460
+	page location: 480 page_link: /jobs?q=cook&start=480
+	page location: 490 page_link: /jobs?q=cook&start=490
+	page location: 480 page_link: /jobs?q=cook&start=480
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=480
+CURRENT PAGE:480
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=490Pagination:
+	page location: 470 page_link: /jobs?q=cook&start=470
+	page location: 460 page_link: /jobs?q=cook&start=460
+	page location: 470 page_link: /jobs?q=cook&start=470
+	page location: 490 page_link: /jobs?q=cook&start=490
+	page location: 500 page_link: /jobs?q=cook&start=500
+	page location: 490 page_link: /jobs?q=cook&start=490
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=490
+CURRENT PAGE:490
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=500Pagination:
+	page location: 480 page_link: /jobs?q=cook&start=480
+	page location: 470 page_link: /jobs?q=cook&start=470
+	page location: 480 page_link: /jobs?q=cook&start=480
+	page location: 500 page_link: /jobs?q=cook&start=500
+	page location: 510 page_link: /jobs?q=cook&start=510
+	page location: 500 page_link: /jobs?q=cook&start=500
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=500
+CURRENT PAGE:500
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=510Pagination:
+	page location: 490 page_link: /jobs?q=cook&start=490
+	page location: 480 page_link: /jobs?q=cook&start=480
+	page location: 490 page_link: /jobs?q=cook&start=490
+	page location: 510 page_link: /jobs?q=cook&start=510
+	page location: 520 page_link: /jobs?q=cook&start=520
+	page location: 510 page_link: /jobs?q=cook&start=510
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=510
+CURRENT PAGE:510
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=520Pagination:
+	page location: 500 page_link: /jobs?q=cook&start=500
+	page location: 490 page_link: /jobs?q=cook&start=490
+	page location: 500 page_link: /jobs?q=cook&start=500
+	page location: 520 page_link: /jobs?q=cook&start=520
+	page location: 530 page_link: /jobs?q=cook&start=530
+	page location: 520 page_link: /jobs?q=cook&start=520
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=520
+CURRENT PAGE:520
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=530Pagination:
+	page location: 510 page_link: /jobs?q=cook&start=510
+	page location: 500 page_link: /jobs?q=cook&start=500
+	page location: 510 page_link: /jobs?q=cook&start=510
+	page location: 530 page_link: /jobs?q=cook&start=530
+	page location: 540 page_link: /jobs?q=cook&start=540
+	page location: 530 page_link: /jobs?q=cook&start=530
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=530
+CURRENT PAGE:530
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=540Pagination:
+	page location: 520 page_link: /jobs?q=cook&start=520
+	page location: 510 page_link: /jobs?q=cook&start=510
+	page location: 520 page_link: /jobs?q=cook&start=520
+	page location: 540 page_link: /jobs?q=cook&start=540
+	page location: 550 page_link: /jobs?q=cook&start=550
+	page location: 540 page_link: /jobs?q=cook&start=540
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=540
+CURRENT PAGE:540
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=550Pagination:
+	page location: 530 page_link: /jobs?q=cook&start=530
+	page location: 520 page_link: /jobs?q=cook&start=520
+	page location: 530 page_link: /jobs?q=cook&start=530
+	page location: 550 page_link: /jobs?q=cook&start=550
+	page location: 560 page_link: /jobs?q=cook&start=560
+	page location: 550 page_link: /jobs?q=cook&start=550
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=550
+CURRENT PAGE:550
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=560Pagination:
+	page location: 540 page_link: /jobs?q=cook&start=540
+	page location: 530 page_link: /jobs?q=cook&start=530
+	page location: 540 page_link: /jobs?q=cook&start=540
+	page location: 560 page_link: /jobs?q=cook&start=560
+	page location: 570 page_link: /jobs?q=cook&start=570
+	page location: 560 page_link: /jobs?q=cook&start=560
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=560
+CURRENT PAGE:560
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=570Pagination:
+	page location: 550 page_link: /jobs?q=cook&start=550
+	page location: 540 page_link: /jobs?q=cook&start=540
+	page location: 550 page_link: /jobs?q=cook&start=550
+	page location: 570 page_link: /jobs?q=cook&start=570
+	page location: 580 page_link: /jobs?q=cook&start=580
+	page location: 570 page_link: /jobs?q=cook&start=570
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=570
+CURRENT PAGE:570
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=580Pagination:
+	page location: 560 page_link: /jobs?q=cook&start=560
+	page location: 550 page_link: /jobs?q=cook&start=550
+	page location: 560 page_link: /jobs?q=cook&start=560
+	page location: 580 page_link: /jobs?q=cook&start=580
+	page location: 590 page_link: /jobs?q=cook&start=590
+	page location: 580 page_link: /jobs?q=cook&start=580
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=580
+CURRENT PAGE:580
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=590Pagination:
+	page location: 570 page_link: /jobs?q=cook&start=570
+	page location: 560 page_link: /jobs?q=cook&start=560
+	page location: 570 page_link: /jobs?q=cook&start=570
+	page location: 590 page_link: /jobs?q=cook&start=590
+	page location: 600 page_link: /jobs?q=cook&start=600
+	page location: 590 page_link: /jobs?q=cook&start=590
+==========================================
+
