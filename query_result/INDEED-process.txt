@@ -701,7 +701,17 @@ NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&sta
 	page location: 560 page_link: /jobs?q=cook&start=560
 	page location: 570 page_link: /jobs?q=cook&start=570
 	page location: 590 page_link: /jobs?q=cook&start=590
-	page location: 600 page_link: /jobs?q=cook&start=600
 	page location: 590 page_link: /jobs?q=cook&start=590
+==========================================
+
+----------WEBPAGE INFORmATION----------
+URL:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=590
+CURRENT PAGE:590
+NEXT PAGE:https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc/jobs?q=cook&start=600Pagination:
+	page location: 580 page_link: /jobs?q=cook&start=580
+	page location: 570 page_link: /jobs?q=cook&start=570
+	page location: 580 page_link: /jobs?q=cook&start=580
+	page location: 600 page_link: /jobs?q=cook&start=600
+	page location: 600 page_link: /jobs?q=cook&start=600
 ==========================================
 

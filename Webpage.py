@@ -1,11 +1,11 @@
-from multiprocessing.sharedctypes import Value
 import requests
 from bs4 import BeautifulSoup
-import time
+
 
 class EndOfRequestException(Exception):
     def __init__(self):
         super().__init__("Request Process Finished!")
+
 
 def extract_num(line):
     line = list(line)
@@ -16,6 +16,7 @@ def extract_num(line):
         else:
             return int(num)
     return int(num)
+
 
 def utf_encode(text):
     utf_text = str(text).encode("utf-8")
@@ -30,31 +31,29 @@ class Webpage:
         self.pagination = list()
         self.pagination_info = pagination_info
 
-        self.current_page = self.get_current_page() # current page index
-        self.find_pagination() # stores pages' index and link in a list
-        self.next_page_link = self.get_next_page_link() # next page url
+        self.current_page = self.get_current_page()  # current page index
+        self.find_pagination()  # stores pages' index and link in a list
+        self.next_page_link = self.get_next_page_link()  # next page url
 
         self.search_info = search_info
-    
+
     def get_soup(self):
         while True:
             req = requests.get(self.url)
             soup = BeautifulSoup(req.text, "html.parser")
-            if req != None and soup != None:
+            if not (req is None or soup is None):
                 break
             print("requesting again..")
         return soup
-            
 
     def find_pagination(self):
         location = self.pagination_info.get("location")
         classname = self.pagination_info.get("classname")
         query_line = self.pagination_info.get("query_line")
-
         try:
-            pagination = self.soup.find(location, {"class" : classname})
-            pages =  pagination.find_all("a")
-        
+            pagination = self.soup.find(location, {"class": classname})
+            pages = pagination.find_all("a")
+
             for page in pages:
                 self.pagination.append(Pagination(page.get("href"), query_line))
         except AttributeError as e:
@@ -68,7 +67,7 @@ class Webpage:
             return extract_num(self.url[start:])
         except ValueError as e:
             return 0
-    
+
     def get_next_page_link(self):
         next_p = self.pagination[-1]
         query_line = self.pagination_info.get("query_line")
@@ -84,7 +83,7 @@ class Webpage:
         location = search_info["tag_location"]
         classname = search_info["classname"]
 
-        found_ls = self.soup.find_all(location, {"class" : classname})
+        found_ls = self.soup.find_all(location, {"class": classname})
         result = list()
 
         for found in found_ls:
@@ -104,12 +103,12 @@ class Webpage:
     def get_progress(self, i, freq=1):
         if i % freq != 0:
             return ""
-        line = "----------WEBPAGE INFORmATION----------"\
-            + "\nURL:" + self.url\
-            + "\nCURRENT PAGE:" + str(self.current_page)\
-            + "\nNEXT PAGE:" + self.next_page_link\
-            + "Pagination:\n"
-        
+        line = "----------WEBPAGE INFORmATION----------" \
+               + "\nURL:" + self.url \
+               + "\nCURRENT PAGE:" + str(self.current_page) \
+               + "\nNEXT PAGE:" + self.next_page_link \
+               + "Pagination:\n"
+
         for page in self.pagination:
             line += page.toString()
         line += "==========================================\n\n"
@@ -124,7 +123,6 @@ class Pagination:
         except ValueError as e:
             self.location = 0
         self.page_link = page_link
-    
+
     def toString(self):
         return "\tpage location: " + str(self.location) + " page_link: " + self.page_link + "\n"
-

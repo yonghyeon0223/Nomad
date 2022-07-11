@@ -1,5 +1,6 @@
 from Webpage import Webpage
 import csv
+import os
 
 
 def progress_file_setup(filename):
@@ -23,8 +24,8 @@ def write_result(filename, result_ls):
 
     for result in result_ls:
         # print(len(result))
-        assert(len(result) == length)
-        
+        assert (len(result) == length)
+
     with open(filename, "a", newline="") as f:
         writer = csv.writer(f)
         for i in range(length):
@@ -35,8 +36,12 @@ def write_result(filename, result_ls):
 
 
 def run(url, pagination_info, search_info, progress_file, result_file, contain_num):
-    progress_file = "query_result/" + progress_file
-    result_file =  "query_result/" + result_file
+    folder = "query_result"
+    if not os.path.exists(folder):
+        os.system(f"mkdir {folder}")
+    folder += "/"
+    progress_file = folder + progress_file
+    result_file = folder + result_file
     progress_file_setup(progress_file)
     result_file_setup(result_file, search_info[0])
 
@@ -48,12 +53,12 @@ def run(url, pagination_info, search_info, progress_file, result_file, contain_n
         write_progress(progress_file, Current_page.get_progress(i))
         write_result(result_file, Current_page.search_elements())
         Current_page = Webpage(Current_page.next_page_link, pagination_info, search_info)
-        print(f"Over {(i+1)*contain_num} Queries Processed")
+        print(f"Over {(i + 1) * contain_num} Queries Processed")
         i += 1
 
 
 if __name__ == "__main__":
-# INDEED COOK JOB SEARCH
+    # INDEED COOK JOB SEARCH
     # URL and PAGINATION
     url = "https://au.indeed.com/jobs?q=cook&vjk=6493e1124836c3fc"
     pagination = dict(location="div", classname="pagination", query_line="start=")
@@ -64,5 +69,3 @@ if __name__ == "__main__":
     search_info = (["Job Title", "Company", "Location"], job_search, company_search, compnay_location)
     # RUN PROGRAM
     run(url, pagination, search_info, "INDEED-process.txt", "INDEED-result.csv", 15)
-
-
